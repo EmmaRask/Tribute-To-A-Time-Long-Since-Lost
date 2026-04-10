@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Node (if needed later)
+node_modules/
+
+# Envgit 
+.env
+
+*.log
